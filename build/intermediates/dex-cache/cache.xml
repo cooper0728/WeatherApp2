@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\cooper0728\.android\build-cache\f62ee0bdcb25150db50cf1b21728ef8dac82eed1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\cooper0728\AndroidStudioProjects\WeatherApp2\app\build\intermediates\pre-dexed\release\classes_275c496f7f87a89d113726a81c0f574723368a0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cooper0728\.android\build-cache\690cd8362e8dbb0a979a07debd39fbb38fc7f932\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\cooper0728\AndroidStudioProjects\WeatherApp2\app\build\intermediates\pre-dexed\release\classes_8d4249982b4a6bb12d244033a5a723ce3bef89b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cooper0728\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\cooper0728\AndroidStudioProjects\WeatherApp2\app\build\intermediates\pre-dexed\release\support-annotations-26.0.0-alpha1_071cb804d0e1a659f876fad27b92e6dcde7cecb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cooper0728\.android\build-cache\47a76c317a0bde086d10ddf56deeebe62dcdb25c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\cooper0728\AndroidStudioProjects\WeatherApp2\app\build\intermediates\pre-dexed\release\classes_de3ac211ae73479a857e4343b40ee1d8172b876f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cooper0728\AndroidStudioProjects\WeatherApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\cooper0728\AndroidStudioProjects\WeatherApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9c0f2b3b5fe4e8bc44610e6da94758690a5441c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cooper0728\.android\build-cache\56a22c6c77e44e97d730ba2f30819215b21ebbd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\cooper0728\AndroidStudioProjects\WeatherApp2\app\build\intermediates\pre-dexed\release\classes_34eb9d3bfd1c2835ad6b8c20e78423140886c1f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cooper0728\.android\build-cache\816a0bc61e69039c5537e04f3f1961af44e4cb27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\cooper0728\AndroidStudioProjects\WeatherApp2\app\build\intermediates\pre-dexed\release\classes_0b754073770126c9e4305370e2f3fcd7f4d575cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cooper0728\.android\build-cache\5c05ace1ae549141e356bf137c5af410d1a63c21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\cooper0728\AndroidStudioProjects\WeatherApp2\app\build\intermediates\pre-dexed\release\classes_f16e0c2209637caadeefb0dc259e36e4afa32afa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cooper0728\.android\build-cache\dd725e97437d3e42170d07ad57afe8cea9e4f66c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\cooper0728\AndroidStudioProjects\WeatherApp2\app\build\intermediates\pre-dexed\release\classes_8d885c6d21a6008b99b72d0a32b6e5843a4543e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cooper0728\.android\build-cache\ff90feb4d4f03dda82e34e8f54b1add43bfd8f1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\cooper0728\AndroidStudioProjects\WeatherApp2\app\build\intermediates\pre-dexed\release\classes_f59d6f1a9d48d484844fc2dc5a16a733757ab49e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cooper0728\AndroidStudioProjects\WeatherApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="465850581d9d67f92ae159f97d5b5a814963079b">
+        <dex dex="C:\Users\cooper0728\AndroidStudioProjects\WeatherApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_870eb0dcb83eafe286ea8012f07f58f58d729474\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cooper0728\.android\build-cache\0615e06c4a74e2c7e8acadbb2265b94e7e2a6398\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\cooper0728\AndroidStudioProjects\WeatherApp2\app\build\intermediates\pre-dexed\release\classes_1aae4be8620d6a59bd3e818a4c076242e6d6b965.jar" />
+    </item>
+
+</items>
